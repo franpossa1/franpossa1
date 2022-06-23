@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francisco Possamai!</h1>
 <h3 align="center">A front end developer working with React ⚛️</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franpossa1" alt="franpossa1" /></a> </p>
+
 
 - 🔭 I’m currently working on [a League of Legends Database!](https://github.com/franpossa1/Loldatabase)
 
