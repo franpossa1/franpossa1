@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Francisco Possamai!</h1>
-<h3 align="center">A front end developer working with React ⚛️</h3>
+<h1 align="center">Hi 👋, I'm Francisco!</h1>
+<h3 align="center">A Full stack developer working with Angular and .Net Core 6 !</h3>
 
 
 
-- 🔭 I’m currently working on [a League of Legends Database!](https://github.com/franpossa1/Loldatabase)
+- 🔭 My last finished project was [a League of Legends Database!](https://github.com/franpossa1/Loldatabase)
 
-- 🌱 I’m currently learning **React Hooks and database 💻**
+- 🌱 I’m currently learning **Deep Angular and .Net Core 6 Skills 💻**
 
-- 💬 Ask me about **React and frontend topics 😁👍🏻**
+- 💬 Ask me about **Fullstack topics 😁👍🏻**
 
 - 📫 How to reach me **franpossa1@gmail.com**
 
