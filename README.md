@@ -1,17 +1,68 @@
-<h1 align="center">Hi 👋, I'm Francisco!</h1>
-<h3 align="center">A Full stack developer working with Angular and .Net Core 6 !</h3>
+# Hi 👋, I'm Francisco (Fran)
+
+### Frontend Lead / AI-Engineer & Data Science  
+Angular + Modular Architectures + AI / Data Science with Python
+
+---
+
+## 🔭 What I Do — Leading Frontend & Exploring Data / AI  
+As a Frontend Lead, I lead the development of modular architectures in Angular, fostering best practices, code standards, and effective collaboration across teams. I coordinate the definition and evolution of reusable Web Components, ensuring scalability, visual consistency and clean integration with backend services and APIs.  
+I drive the adoption of robust strategies for modularization, unit testing, code reviews, and technical standardization to guarantee code quality, maintainability, and scalability. I mentor the team in technical decision-making, review and approve Pull Requests, and cultivate a collaborative learning environment focused on quality and shared responsibility.
+
+At the same time, I am immersing myself in **Data Science and AI Engineering**. I'm leveraging my background (Analyst of Systems) and learning agents harness, vector-databases and data embeddings, tools like LangGraph / LangChain, diving into data modelling, machine learning and AI infrastructure. My goal is to blend frontend + full-stack experience with data/AI capabilities — to be able to build modern, data-driven applications end-to-end.
 
 
 
-- 🔭 My last finished project was [a League of Legends Database!](https://github.com/franpossa1/Loldatabase)
+---
 
-- 🌱 I’m currently learning **Deep Angular and .Net Core 6 Skills 💻**
+## 🛠️ Skills & Technical Leadership
 
-- 💬 Ask me about **Fullstack topics 😁👍🏻**
+**Frontend & UI**  
+- Angular (modular architectures, reusable Web Components)  
+- TypeScript / JavaScript, HTML5, CSS3 / Sass / Bootstrap  
+- Consistent UI design, reusable components, design/style guideline compliance
 
-- 📫 How to reach me **franpossa1@gmail.com**
+**Full-Stack / Backend**  
+- .NET Core 6, NestJS
+- API integration, service layer when required, Modular Monolith Architecture, Microservices.
 
-- ⚡ Fun fact **the "border:1px solid red" its the "console.log()" of css 😂**
+**Data Science & AI / Data Engineering**  
+- Python, data processing, data cleaning, data analysis  
+- Data modeling, embeddings, vector databases, machine learning / AI pipelines, data ingestion & preprocessing
+- Exploring the powerfull world of Data powered by AI Applications
+  
+**Architecture & Maintainability**  
+- Modularization, reusable components and internal libraries - Facade Pattern.  
+- Design patterns, best practices, scalable architecture
+
+**Quality & Processes**  
+- Unit testing, code reviews, code normalization  
+- Technical documentation, internal guidelines, coding standards, guidelines.
+
+**Leadership & Team Management**  
+- Mentorship and guidance for developers, cross-team coordination  
+- Architectural decision-making, code review, approval workflows  
+- Promoting a culture of quality, collaboration, continuous improvement
+
+---
+
+## 💼 Last Public Projects:
+- 🗂️ [League of Legends Database](https://github.com/franpossa1/Loldatabase).  
+- 📚 Ongoing Degree: Data Science
+
+---
+
+## 📫 Contact & Connect  
+- 📧 Email: franpossa1@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/franpossa1/  
+- 🐦 Twitter: https://twitter.com/franpossa1  
+
+---
+
+## 😄 Fun Fact  
+The `border:1px solid red` is like the `console.log()` of CSS 😂
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
